@@ -14,7 +14,6 @@ For this assignment, you will submit a high-level outline of your project. This 
     User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
     Admin login: Admin can add update delete flights,manage Users accounts and sensitive Data.
     Search: Users will be able to search for available flights.
-    Add Flights: Admin  will be able to Add new flights when logged in.
 ### Technologies
     Java
     Spring Boot
