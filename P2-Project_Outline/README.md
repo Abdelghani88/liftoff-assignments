@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+    i like to travel a lot and i m always looking for a cheap deals,thats why i come up with this idea app for airline ticket reservation,
+    but my main goal is to turn this is app to online travel agency include hotels, cars,cruise,and  packages vacations reservations,
+
 ### Features
-Include Features here
+    User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+    Admin login: Admin can add update delete flights,manage Users accounts and sensitive Data.
+    Search: Users will be able to search for available flights.
+    Add Flights: Admin  will be able to Add new flights when logged in.
 ### Technologies
-Include Technologies here
+    Java
+    Spring Boot
+    MySQL
+    Thymleaf
 ### What I'll Have to Learn
-Include what you will need to learn here
+    i will need to use Data from a public API ,also i will need to learn Spring Security Framework.
 ### Project Tracker
-Link to your Trello board here
+    https://trello.com/abdelghaniaitsouiri
